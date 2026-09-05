@@ -1,25 +1,25 @@
 # Hi, I'm Azima Leyyan 👋 
-### Aspiring Technical Artist | Python Programming | 2D/3D Artist
+### Aspiring Technical Artist | Python Programming | Tool Developer | Pipeline Engineer
 
-I am building my foundations in Python programming with a dedicated focus on entering the 3D Technical Art space. I am currently mastering core programming logic while learning how to structure reusable code for tool creation and pipeline automation.
+I am developing a strong foundation in Python, specializing in technical workflow automation. Currently, I am mastering core software logic to build reusable tools and automated pipelines that optimize complex digital workflows.
 
 ---
 
 ## 🚀 Technical Art Learning Roadmap
 
-- [🎯] **Current Focus:** Mastering Python programming language and its libraries (e.g. PySide6)
-- [ ] **Next Step:** Building my first Technical Art portfolio: Asset Validator
-- [ ] **Milestone:** Build software-agnostic tools and pipelines automation for DCC and game engine softwares
+- [🎯] **Current Focus:** Building tools and pipelines portfolios with PySide6 (Qt) GUI.
+- [ ] **Next Step:** Learn DCC Python APIs to understand their workflow.
+- [ ] **Milestone:** Build software-agnostic tools and pipelines automation for DCC software, game engine, and more.
 
 ---
 
 ## 💻 Toolset & Interests
 
-*   **Languages:** Python (Active Learner)
-*   **Artistic Software:** Blender, Adobe Fresco (Digital Art)
-*   **Interests:** Tools & Pipelines Automation, Performance Optimization, Procedural Generation
+*   **Tech Skills:** Python, PySide6 (Active Learner)
+*   **Interests:** Tools & Pipelines Automation, Performance Optimization
 
 ---
 
 ## 📫 Connect With Me
 *   **LinkedIn:** www.linkedin.com/in/azima-leyyan
+*   
