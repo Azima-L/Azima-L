@@ -1,25 +1,24 @@
 # Hi, I'm Azima Leyyan 👋 
 ### Aspiring Technical Artist | Python Programming | Tool Developer | Pipeline Engineer
 
-I am developing a strong foundation in Python, specializing in technical workflow automation. Currently, I am mastering core software logic to build reusable tools and automated pipelines that optimize complex digital workflows.
+A creative mindset individual who bridges creativity with scripting. I'm currently focusing on mastering Python programming language to build automation for productions. My Production Tools project is the journey I've been through; container for progression before I am able to integrate Machine Learning or Procedural Content Generation (PCG) workflow in the future.
 
 ---
 
-## 🚀 Technical Art Learning Roadmap
+## 🚀 Learning Roadmap
 
-- [🎯] **Current Focus:** Building tools and pipelines portfolios with PySide6 (Qt) GUI.
-- [ ] **Next Step:** Learn DCC Python APIs to understand their workflow.
-- [ ] **Milestone:** Build software-agnostic tools and pipelines automation for DCC software, game engine, and more.
+- [🎯] **Current Focus:** Building Production Tools as a project to discover PySide/PyQt GUI.
+- [ ] **Next Step:** Learn data engineering, Machine Learning, or technical art.
+- [ ] **Milestone:** A collection of portfolios on Automation, Pipeline, and Generation.
 
 ---
 
 ## 💻 Toolset & Interests
 
 *   **Tech Skills:** Python, PySide6 (Active Learner)
-*   **Interests:** Tools & Pipelines Automation, Performance Optimization
+*   **Interests:** Tools, Automation, AI/ML, Procedural Content Creation (PCG)
 
 ---
 
 ## 📫 Connect With Me
 *   **LinkedIn:** www.linkedin.com/in/azima-leyyan
-*   
