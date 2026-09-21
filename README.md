@@ -1,22 +1,22 @@
 # Hi, I'm Azima Leyyan 👋 
-### Aspiring Technical Artist | Python Programming | Tool Developer | Pipeline Engineer
+### Junior Python Dev | Data Architecture | Automation | Tools
 
-A creative mindset individual who bridges creativity with scripting. I'm currently focusing on mastering Python programming language to build automation for productions. My Production Tools project is the journey I've been through; container for progression before I am able to integrate Machine Learning or Procedural Content Generation (PCG) workflow in the future.
+A proactive individual passionate about data management and automation workflow. I am focused on mastering Python programming and its libraries, currently specializing in Pandas. My creativity gives me a keen eye for human–computer interaction (HCI) and UI/UX design, complementing my technical skill set that provides a unique plus to my work.
 
 ---
 
 ## 🚀 Learning Roadmap
 
-- [🎯] **Current Focus:** Building Production Tools as a project to discover PySide/PyQt GUI.
-- [ ] **Next Step:** Learn data engineering, Machine Learning, or technical art.
+- [🎯] **Current Focus:** Building a simple CSV data pipeline project with Pandas as a learning journey to build a foundational skill set in data engineering and data analysis.
+- [ ] **Next Step:** Learn data engineering — SQL, Apache Airflow, Apache Spark, Kafka, etc.
 - [ ] **Milestone:** A collection of portfolios on Automation, Pipeline, and Generation.
 
 ---
 
 ## 💻 Toolset & Interests
 
-*   **Tech Skills:** Python, PySide6 (Active Learner)
-*   **Interests:** Tools, Automation, AI/ML, Procedural Content Creation (PCG)
+*   **Tech Skills:** Python, Pandas, PySide6
+*   **Interests:** Data Architecture, Automation, Tools, HCI, AI/ML, Procedural Content Creation (PCG)
 
 ---
 
