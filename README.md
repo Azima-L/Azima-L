@@ -1,5 +1,5 @@
 # Hi, I'm Azima Leyyan 👋 
-### Junior Python Dev | Data Architecture | Automation | Tools
+### Junior Python Developer | Specialize in Data and Automation
 
 A proactive individual passionate about data management and automation workflow. I am focused on mastering Python programming and its libraries, currently specializing in Pandas. My creativity gives me a keen eye for human–computer interaction (HCI) and UI/UX design, complementing my technical skill set that provides a unique plus to my work.
 
@@ -16,6 +16,7 @@ A proactive individual passionate about data management and automation workflow.
 ## 💻 Toolset & Interests
 
 *   **Tech Skills:** Python, Pandas, PySide6
+*   **Special Advantage:** Creative and design skills
 *   **Interests:** Data Architecture, Automation, Tools, HCI, AI/ML, Procedural Content Creation (PCG)
 
 ---
